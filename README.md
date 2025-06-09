@@ -47,7 +47,7 @@ This project is a comprehensive, production-ready Parking Lot Management System 
 - Docker & Docker Compose installed
 - Internet connection for Neon DB access
 
-### Build & Run
+### Build & Run (To Run using Docker)
 
 ```bash
 git clone <repo-url>
@@ -55,7 +55,7 @@ cd <repo-folder>
 docker-compose --build
 docker-compose up
 ```
-### Run locally
+### Run locally (No Docker)
 ```bash
 sudo apt-get install libpqxx-dev libpq-dev
 
