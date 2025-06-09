@@ -1,0 +1,20 @@
+Mon Jun  9 18:47:59 2025
+: Parked vehicle: KA01AB1234
+Mon Jun  9 18:47:59 2025
+: Parked vehicle: UP14XY5678
+Mon Jun  9 18:57:07 2025
+: Parked vehicle: KA01AB1234
+Mon Jun  9 18:57:08 2025
+: Parked vehicle: UP14XY5678
+Mon Jun  9 18:57:13 2025
+: Unparked ticket ID: 2
+Mon Jun  9 18:57:14 2025
+: Unparked ticket ID: 1
+Mon Jun  9 20:55:10 2025
+: Parked vehicle: KA01AB1234
+Mon Jun  9 20:55:11 2025
+: Parked vehicle: UP14XY5678
+Mon Jun  9 20:55:16 2025
+: Unparked ticket ID: 2
+Mon Jun  9 20:55:17 2025
+: Unparked ticket ID: 1

@@ -1,0 +1,9 @@
+#docker-compose.yml
+version: '3.8'
+services:
+  parking_lot:
+    build: .
+    image: parkingsystem:latest 
+    environment:
+      - DB_CONN=postgresql://neondb_owner:npg_suhjTH7v3WgX@ep-noisy-sound-a54nepy7-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require
+
